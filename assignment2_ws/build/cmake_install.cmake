@@ -126,7 +126,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/rushikesh/AuE893/rushikharade07-AuE893Spring20_RushikeshKharade/assignment2_ws/build/gtest/cmake_install.cmake")
-  include("/home/rushikesh/AuE893/rushikharade07-AuE893Spring20_RushikeshKharade/assignment2_ws/build/assignment2_ws/cmake_install.cmake")
+  include("/home/rushikesh/AuE893/rushikharade07-AuE893Spring20_RushikeshKharade/assignment2_ws/build/assignment2/cmake_install.cmake")
 
 endif()
 
